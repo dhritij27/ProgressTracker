@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "HabitFlow",
+    "slug": "habitflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "habitflow",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.habitflow"
+    },
+    "android": {
+      "package": "com.yourname.habitflow"
+    }
+  }
+}
