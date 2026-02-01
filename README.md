@@ -1,6 +1,6 @@
 # ProgressTracker
 
-HabitFlow is a cross-platform mobile app for tracking daily habits and tasks while visualizing productivity over time.  
+ProgressTracker is a cross-platform mobile app for tracking daily habits and tasks while visualizing productivity over time.  
 It helps users build consistency, reflect on progress, and stay motivated through clear analytics and a calm, focused UX.
 
 Built with **Expo + React Native**, HabitFlow runs on both **iOS and Android** from a single codebase.
