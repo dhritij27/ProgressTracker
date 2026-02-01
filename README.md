@@ -7,7 +7,7 @@ Built with **Expo + React Native**, HabitFlow runs on both **iOS and Android** f
 
 ---
 
-## ✨ Features
+## Features
 
 ### Habit Tracking
 - Create and track daily habits
